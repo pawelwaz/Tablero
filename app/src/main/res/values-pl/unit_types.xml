@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //names of unit types:
+    <string name="length">długość</string>
+    <string name="mass">masa</string>
+    <string name="area">powierzchnia</string>
+    <string name="volume">objętość</string>
+    <string name="temperature">temperatura</string>
+    <string name="pressure">ciśnienie</string>
+    <string name="time">czas</string>
+    <string name="energy">energia</string>
+    <string name="power">moc</string>
+    <string name="speed">prędkość</string>
+    <string name="dataStorage">rozmiar danych (standard IEC)</string>
+    <string name="dataStorageOld">rozmiar danych (stary standard)</string>
+
+    //names of unit types in array:
+    <string-array name="unitTypes">
+        <item>@string/length</item>
+        <item>@string/mass</item>
+        <item>@string/area</item>
+        <item>@string/volume</item>
+        <item>@string/temperature</item>
+        <item>@string/pressure</item>
+        <item>@string/time</item>
+        <item>@string/energy</item>
+        <item>@string/power</item>
+        <item>@string/speed</item>
+        <item>@string/dataStorage</item>
+        <item>@string/dataStorageOld</item>
+    </string-array>
+</resources>

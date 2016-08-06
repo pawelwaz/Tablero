@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/mainLayout">
+    <ScrollView style="@style/mainScroll">
+        <LinearLayout style="@style/subLayout">
+            <Button style="@style/menuButtonDark"
+                android:id="@+id/converter"
+                android:text="@string/title_activity_unit_converter"
+                android:onClick="selectMenuItem" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

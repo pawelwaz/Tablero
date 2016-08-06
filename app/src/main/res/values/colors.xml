@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="barBG">#ff8300</color>
+    <color name="mainBG">#1b3c51</color>
+    <color name="input">#FFFFB6</color>
+    <color name="button1">#FB8F34</color>
+    <color name="button2">#BB00CC</color>
+    <color name="button3">#38A0A3</color>
+    <color name="button4">#7B003F</color>
+    <color name="button5">#568CE3</color>
+    <color name="button6">#FD5818</color>
+    <color name="button7">#fe9f8d</color>
+    <color name="barText">#0C4B72</color>
+
+    <color name="bg1">#317494</color>
+    <color name="bg2">#3786ac</color>
+
+    <color name="explanation">#59a7c8</color>
+    <color name="explanation2">#3785a6</color>
+    <color name="explanation3">#571944</color>
+    <color name="explanation4">#dec3d6</color>
+
+    <color name="interfaceLight">#FFFFFF</color>
+    <color name="header">#317494</color>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+</resources>

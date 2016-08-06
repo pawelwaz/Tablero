@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    //names of time units:
+    <string name="nanosecond">nanosecond (ns)</string>
+    <string name="microsecond">microsecond (µs)</string>
+    <string name="milisecond">milisecond (ms)</string>
+    <string name="hundredthOfASecond">hundredth of a second</string>
+    <string name="second">second (s)</string>
+    <string name="minute">minute (min)</string>
+    <string name="quarterOfAnHour">quarter of an hour</string>
+    <string name="hour">hour (h)</string>
+    <string name="day">day</string>
+    <string name="week">week</string>
+    <string name="month28">month (28 days)</string>
+    <string name="month29">month (29 days)</string>
+    <string name="month30">month (30 days)</string>
+    <string name="month31">month (31 days)</string>
+    <string name="year365">year (365 days)</string>
+    <string name="year366">year (366 days)</string>
+    <string name="decade">decade</string>
+    <string name="age">age</string>
+    <string name="millennium">millennium</string>
+
+    //names of time units array:
+    <string-array name="timeUnitsLong">
+        <item>@string/nanosecond</item>
+        <item>@string/microsecond</item>
+        <item>@string/milisecond</item>
+        <item>@string/hundredthOfASecond</item>
+        <item>@string/second</item>
+        <item>@string/minute</item>
+        <item>@string/quarterOfAnHour</item>
+        <item>@string/hour</item>
+        <item>@string/day</item>
+        <item>@string/week</item>
+        <item>@string/month28</item>
+        <item>@string/month29</item>
+        <item>@string/month30</item>
+        <item>@string/month31</item>
+        <item>@string/year365</item>
+        <item>@string/year366</item>
+        <item>@string/decade</item>
+        <item>@string/age</item>
+        <item>@string/millennium</item>
+    </string-array>
+
+    //short names of time units array:
+    <string-array name="timeUnits">
+        <item>ns</item>
+        <item>µs</item>
+        <item>ms</item>
+        <item>s/100</item>
+        <item>s</item>
+        <item>min</item>
+        <item>quarter of an hour</item>
+        <item>h</item>
+        <item>day</item>
+        <item>week</item>
+        <item>month (28 days)</item>
+        <item>month (29 days)</item>
+        <item>month (30 days)</item>
+        <item>month (31 days)</item>
+        <item>year (365 days)</item>
+        <item>year (366 days)</item>
+        <item>decade</item>
+        <item>age</item>
+        <item>millennium</item>
+    </string-array>
+</resources>

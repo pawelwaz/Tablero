@@ -1,0 +1,67 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/mainLayout">
+    <TextView style="@style/headerLight"
+        android:text="@string/title_activity_unit_converter" />
+    <ScrollView style="@style/mainScroll">
+        <LinearLayout style="@style/subLayout">
+            <LinearLayout style="@style/horizontalLayout"
+                android:background="@color/bg1">
+                <EditText style="@style/wideInput"
+                    android:hint="@string/converterIn"
+                    android:id="@+id/in"/>
+            </LinearLayout>
+            <TextView style="@style/headerDark"
+                android:text="@string/unitType"/>
+            <LinearLayout style="@style/horizontalLayout"
+                android:background="@color/interfaceLight"
+                android:padding="0dp">
+                <Spinner
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/typeSpinner"
+                    android:layout_margin="0dp"/>
+            </LinearLayout>
+            <TextView style="@style/headerDark"
+                android:text="@string/unit"/>
+            <LinearLayout style="@style/horizontalLayout"
+                android:background="@color/interfaceLight"
+                android:padding="0dp">
+                <Spinner
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="0dp"
+                    android:id="@+id/unitSpinner" />
+            </LinearLayout>
+            <TextView style="@style/headerDark"
+                android:text="@string/maxDigits"/>
+            <LinearLayout style="@style/horizontalLayoutLight"
+                android:background="@color/interfaceLight"
+                android:padding="5dp">
+                <Button style="@style/maxDigitsButton"
+                    android:text="-"
+                    android:onClick="lessDigits"/>
+                <TextView style="@style/maxDigitsBar"
+                    android:id="@+id/digitsBar"/>
+                <Button style="@style/maxDigitsButton"
+                    android:text="+"
+                    android:onClick="moreDigits"/>
+            </LinearLayout>
+            <LinearLayout style="@style/horizontalLayout">
+                <Button style="@style/clearButton"
+                    android:onClick="clearInputs" />
+                <Button style="@style/calculateButton"
+                    android:onClick="doConvertion"
+                    android:text="@string/convert"
+                    android:id="@+id/calculateButton"/>
+            </LinearLayout>
+            <TextView style="@style/headerLight"
+                android:id="@+id/resultsHeader"
+                android:visibility="gone"/>
+            <LinearLayout style="@style/layoutConverterResults"
+                android:id="@+id/results">
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
+
+

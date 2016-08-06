@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //names of data storage units:
+    <string name="bitData">bit (b)</string>
+    <string name="byteData">byte (B)</string>
+
+    <string name="kilobitData">kilobit (kb)</string>
+    <string name="kilobyteData">kilobyte (kB)</string>
+    <string name="kibibitData">kibibit (Kib)</string>
+    <string name="kibibyteData">kibibyte (KiB)</string>
+
+    <string name="megabitData">megabit (Mb)</string>
+    <string name="megabyteData">megabyte (MB)</string>
+    <string name="mebibitData">mebibit (Mib)</string>
+    <string name="mebibyteData">mebibyte (MiB)</string>
+
+    <string name="gigabitData">gigabit (Gb)</string>
+    <string name="gigabyteData">gigabyte (GB)</string>
+    <string name="gibibitData">gibibit (Gib)</string>
+    <string name="gibibyteData">gibibyte (GiB)</string>
+
+    <string name="terabitData">terabit (Tb)</string>
+    <string name="terabyteData">terabyte (TB)</string>
+    <string name="tebibitData">tebibit (Tib)</string>
+    <string name="tebibyteData">tebibyte (TiB)</string>
+
+    <string name="petabitData">petabit (Pb)</string>
+    <string name="petabyteData">petabyte (PB)</string>
+    <string name="pebibitData">pebibit (Pib)</string>
+    <string name="pebibyteData">pebibyte (PiB)</string>
+
+    <string name="exabitData">exabit (Eb)</string>
+    <string name="exabyteData">exabyte (EB)</string>
+    <string name="exbibitData">exbibit (Eib)</string>
+    <string name="exbibyteData">exbibyte (EiB)</string>
+
+    <string name="zettabitData">zettabit (Zb)</string>
+    <string name="zettabyteData">zettabyte (ZB)</string>
+    <string name="zebibitData">zebibit (Zib)</string>
+    <string name="zebibyteData">zebibyte (ZiB)</string>
+
+    <string name="yottabitData">yottabit (Yb)</string>
+    <string name="yottabyteData">yottabyte (YB)</string>
+    <string name="yobibitData">yobibit (Yib)</string>
+    <string name="yobibyteData">yobibyte (YiB)</string>
+
+    //names of data storage array:
+    <string-array name="dataStorageUnitsLong">
+        <item>@string/bitData</item>
+        <item>@string/byteData</item>
+
+        <item>@string/kilobitData</item>
+        <item>@string/kilobyteData</item>
+        <item>@string/kibibitData</item>
+        <item>@string/kibibyteData</item>
+
+        <item>@string/megabitData</item>
+        <item>@string/megabyteData</item>
+        <item>@string/mebibitData</item>
+        <item>@string/mebibyteData</item>
+
+        <item>@string/gigabitData</item>
+        <item>@string/gigabyteData</item>
+        <item>@string/gibibitData</item>
+        <item>@string/gibibyteData</item>
+
+        <item>@string/terabitData</item>
+        <item>@string/terabyteData</item>
+        <item>@string/tebibitData</item>
+        <item>@string/tebibyteData</item>
+
+        <item>@string/petabitData</item>
+        <item>@string/petabyteData</item>
+        <item>@string/pebibitData</item>
+        <item>@string/pebibyteData</item>
+
+        <item>@string/exabitData</item>
+        <item>@string/exabyteData</item>
+        <item>@string/exbibitData</item>
+        <item>@string/exbibyteData</item>
+
+        <item>@string/zettabitData</item>
+        <item>@string/zettabyteData</item>
+        <item>@string/zebibitData</item>
+        <item>@string/zebibyteData</item>
+
+        <item>@string/yottabitData</item>
+        <item>@string/yottabyteData</item>
+        <item>@string/yobibitData</item>
+        <item>@string/yobibyteData</item>
+    </string-array>
+
+    //short names of data storage units:
+    <string-array name="dataStorageUnits">
+        <item>b</item>
+        <item>B</item>
+
+        <item>kb</item>
+        <item>kB</item>
+        <item>Kib</item>
+        <item>KiB</item>
+
+        <item>Mb</item>
+        <item>MB</item>
+        <item>Mib</item>
+        <item>MiB</item>
+
+        <item>Gb</item>
+        <item>GB</item>
+        <item>Gib</item>
+        <item>GiB</item>
+
+        <item>Tb</item>
+        <item>TB</item>
+        <item>Tib</item>
+        <item>TiB</item>
+
+        <item>Pb</item>
+        <item>PB</item>
+        <item>Pib</item>
+        <item>PiB</item>
+
+        <item>Eb</item>
+        <item>EB</item>
+        <item>Eib</item>
+        <item>EiB</item>
+
+        <item>Zb</item>
+        <item>ZB</item>
+        <item>Zib</item>
+        <item>ZiB</item>
+
+        <item>Yb</item>
+        <item>YB</item>
+        <item>Yib</item>
+        <item>YiB</item>
+    </string-array>
+</resources>

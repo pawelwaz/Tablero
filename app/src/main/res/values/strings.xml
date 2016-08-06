@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tablero</string>
+    <string name="title_activity_main_menu">main menu</string>
+    <string name="title_activity_unit_converter">unit converter</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

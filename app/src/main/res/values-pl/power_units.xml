@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //names of power units:
+    <string name="miliwatt">miliwat (mW)</string>
+    <string name="centiwatt">centywat (cW)</string>
+    <string name="watt">wat (W)</string>
+    <string name="decawatt">dekawat (daW)</string>
+    <string name="hectowatt">hektowat (hW)</string>
+    <string name="kilowatt">kilowat (kW)</string>
+    <string name="megawatt">megawat (MW)</string>
+    <string name="gigawatt">gigawat (GW)</string>
+    <string name="horsepowermetric">koń mechaniczny (KM)</string>
+
+    //names of power units array:
+    <string-array name="powerUnitsLong">
+        <item>@string/miliwatt</item>
+        <item>@string/centiwatt</item>
+        <item>@string/watt</item>
+        <item>@string/decawatt</item>
+        <item>@string/hectowatt</item>
+        <item>@string/kilowatt</item>
+        <item>@string/megawatt</item>
+        <item>@string/gigawatt</item>
+        <item>@string/horsepowermetric</item>
+    </string-array>
+
+    //short names of power units:
+    <string-array name="powerUnits">
+        <item>mW</item>
+        <item>cW</item>
+        <item>W</item>
+        <item>daW</item>
+        <item>hW</item>
+        <item>kW</item>
+        <item>MW</item>
+        <item>GW</item>
+        <item>KM</item>
+    </string-array>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //names of temperature units:
+    <string name="celsius">skala Celsiusza (<sup><small>o</small></sup>C)</string>
+    <string name="fahrenheit">skala Fahrenheita (<sup><small>o</small></sup>F)</string>
+    <string name="kelvin">skala Kelvina (<sup><small>o</small></sup>K)</string>
+    <string name="rankine">skala Rankine\'a (<sup><small>o</small></sup>R)</string>
+    <string name="reaumur">skala Réaumur\'a (<sup><small>o</small></sup>Ré)</string>
+    <string name="romer">skala Rømer\'a (<sup><small>o</small></sup>Rø)</string>
+    <string name="delisle">skala Delisle\'a (<sup><small>o</small></sup>D)</string>
+    <string name="newton">skala Newtona (<sup><small>o</small></sup>N)</string>
+
+    //names of temperature units array:
+    <string-array name="temperatureUnitsLong">
+        <item>@string/celsius</item>
+        <item>@string/fahrenheit</item>
+        <item>@string/kelvin</item>
+        <item>@string/rankine</item>
+        <item>@string/reaumur</item>
+        <item>@string/romer</item>
+        <item>@string/delisle</item>
+        <item>@string/newton</item>
+    </string-array>
+
+    //short names of temperature units:
+    <string-array name="temperatureUnits">
+        <item><sup><small>o</small></sup>C</item>
+        <item><sup><small>o</small></sup>F</item>
+        <item><sup><small>o</small></sup>K</item>
+        <item><sup><small>o</small></sup>R</item>
+        <item><sup><small>o</small></sup>Ré</item>
+        <item><sup><small>o</small></sup>Rø</item>
+        <item><sup><small>o</small></sup>D</item>
+        <item><sup><small>o</small></sup>N</item>
+    </string-array>
+</resources>

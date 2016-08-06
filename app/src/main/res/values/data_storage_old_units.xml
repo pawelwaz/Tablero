@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //names of old data storage units:
+    <string name="bitDataOld">bit (b)</string>
+    <string name="byteDataOld">byte (B)</string>
+
+    <string name="kilobitDataOld">kilobit (kb)</string>
+    <string name="kilobyteDataOld">kilobyte (kB)</string>
+
+    <string name="megabitDataOld">megabit (Mb)</string>
+    <string name="megabyteDataOld">megabyte (MB)</string>
+
+    <string name="gigabitDataOld">gigabit (Gb)</string>
+    <string name="gigabyteDataOld">gigabyte (GB)</string>
+
+    <string name="terabitDataOld">terabit (Tb)</string>
+    <string name="terabyteDataOld">terabyte (TB)</string>
+
+    <string name="petabitDataOld">petabit (Pb)</string>
+    <string name="petabyteDataOld">petabyte (PB)</string>
+
+    <string name="exabitDataOld">exabit (Eb)</string>
+    <string name="exabyteDataOld">exabyte (EB)</string>
+
+    <string name="zettabitDataOld">zettabit (Zb)</string>
+    <string name="zettabyteDataOld">zettabyte (ZB)</string>
+
+    <string name="yottabitDataOld">yottabit (Yb)</string>
+    <string name="yottabyteDataOld">yottabyte (YB)</string>
+
+    //names of old data storage array:
+    <string-array name="dataStorageOldUnitsLong">
+        <item>@string/bitDataOld</item>
+        <item>@string/byteDataOld</item>
+
+        <item>@string/kilobitDataOld</item>
+        <item>@string/kilobyteDataOld</item>
+
+        <item>@string/megabitDataOld</item>
+        <item>@string/megabyteDataOld</item>
+
+        <item>@string/gigabitDataOld</item>
+        <item>@string/gigabyteDataOld</item>
+
+        <item>@string/terabitDataOld</item>
+        <item>@string/terabyteDataOld</item>
+
+        <item>@string/petabitDataOld</item>
+        <item>@string/petabyteDataOld</item>
+
+        <item>@string/exabitDataOld</item>
+        <item>@string/exabyteDataOld</item>
+
+        <item>@string/zettabitDataOld</item>
+        <item>@string/zettabyteDataOld</item>
+
+        <item>@string/yottabitDataOld</item>
+        <item>@string/yottabyteDataOld</item>
+    </string-array>
+
+    //short names of old data storage units:
+    <string-array name="dataStorageOldUnits">
+        <item>b</item>
+        <item>B</item>
+
+        <item>kb</item>
+        <item>kB</item>
+
+        <item>Mb</item>
+        <item>MB</item>
+
+        <item>Gb</item>
+        <item>GB</item>
+
+        <item>Tb</item>
+        <item>TB</item>
+
+        <item>Pb</item>
+        <item>PB</item>
+
+        <item>Eb</item>
+        <item>EB</item>
+
+        <item>Zb</item>
+        <item>ZB</item>
+
+        <item>Yb</item>
+        <item>YB</item>
+    </string-array>
+</resources>

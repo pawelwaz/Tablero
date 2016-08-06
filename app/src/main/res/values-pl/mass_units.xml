@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //names of mass units:
+    <string name="mg">miligram (mg)</string>
+    <string name="g">gram (g)</string>
+    <string name="dkg">dekagram (dkg)</string>
+    <string name="kg">kilogram (kg)</string>
+    <string name="T">tona (T)</string>
+    <string name="oz">uncja (oz)</string>
+    <string name="lb">funt (lb)</string>
+    <string name="cwtUS">cetnar US (cwtUS)</string>
+    <string name="cwtUK">cetnar UK (cwtUK)</string>
+    <string name="tonUS">tona US (tonUS)</string>
+    <string name="tonUK">tona UK (tonUK)</string>
+    <string name="ct">karat (ct)</string>
+    <string name="q">kwintal (q)</string>
+
+    //names of mass units array:
+    <string-array name="massUnitsLong">
+        <item>@string/mg</item>
+        <item>@string/g</item>
+        <item>@string/dkg</item>
+        <item>@string/kg</item>
+        <item>@string/T</item>
+        <item>@string/oz</item>
+        <item>@string/lb</item>
+        <item>@string/cwtUS</item>
+        <item>@string/cwtUK</item>
+        <item>@string/tonUS</item>
+        <item>@string/tonUK</item>
+        <item>@string/ct</item>
+        <item>@string/q</item>
+    </string-array>
+
+    //short names of mass units:
+    <string-array name="massUnits">
+        <item>mg</item>
+        <item>g</item>
+        <item>dkg</item>
+        <item>kg</item>
+        <item>T</item>
+        <item>oz</item>
+        <item>lb</item>
+        <item>cwtUS</item>
+        <item>cwtUK</item>
+        <item>tonUS</item>
+        <item>tonUK</item>
+        <item>ct</item>
+        <item>q</item>
+    </string-array>
+</resources>

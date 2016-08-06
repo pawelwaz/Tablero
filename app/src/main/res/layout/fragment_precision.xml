@@ -1,0 +1,13 @@
+<LinearLayout style="@style/horizontalLayoutDark"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="layout.Precision">
+    <Button style="@style/maxDigitsButton"
+        android:text="-"
+        android:onClick="lessDigits"/>
+    <TextView style="@style/maxDigitsBar"
+        android:id="@+id/digitsBar"/>
+    <Button style="@style/maxDigitsButton"
+        android:text="+"
+        android:onClick="moreDigits"/>
+</LinearLayout>

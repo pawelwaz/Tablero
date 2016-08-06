@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //names of length units:
+    <string name="mm">milimeter (mm)</string>
+    <string name="cm">centimeter (cm)</string>
+    <string name="dm">decimeter (dm)</string>
+    <string name="m">meter (m)</string>
+    <string name="km">kilometer (km)</string>
+    <string name="in">inch (in)</string>
+    <string name="ft">foot (ft)</string>
+    <string name="yd">yard (yd)</string>
+    <string name="mi">mile (mi)</string>
+    <string name="league">league</string>
+    <string name="cable">cable</string>
+    <string name="nm">nautical mile (nm)</string>
+    <string name="nl">nautical league</string>
+
+    //names of length units array:
+    <string-array name="lengthUnitsLong">
+        <item>@string/mm</item>
+        <item>@string/cm</item>
+        <item>@string/dm</item>
+        <item>@string/m</item>
+        <item>@string/km</item>
+        <item>@string/in</item>
+        <item>@string/ft</item>
+        <item>@string/yd</item>
+        <item>@string/mi</item>
+        <item>@string/league</item>
+        <item>@string/cable</item>
+        <item>@string/nm</item>
+        <item>@string/nl</item>
+    </string-array>
+
+    //short names of length units:
+    <string-array name="lengthUnits">
+        <item>mm</item>
+        <item>cm</item>
+        <item>dm</item>
+        <item>m</item>
+        <item>km</item>
+        <item>in</item>
+        <item>ft</item>
+        <item>yd</item>
+        <item>mi</item>
+        <item>league</item>
+        <item>cable</item>
+        <item>nm</item>
+        <item>nautical league</item>
+    </string-array>
+</resources>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //names of volume units:
+    <string name="mm3">milimetr sześcienny (mm<sup><small>3</small></sup>)</string>
+    <string name="cm3">centymetr sześcienny (cm<sup><small>3</small></sup>)</string>
+    <string name="dm3">decymetr sześcienny (dm<sup><small>3</small></sup>)</string>
+    <string name="m3">metr sześcienny (m<sup><small>3</small></sup>)</string>
+    <string name="ml">mililitr (ml)</string>
+    <string name="cl">centylitr (cl)</string>
+    <string name="dl">decylitr (dl)</string>
+    <string name="l">litr (l)</string>
+    <string name="hl">hektolitr (hl)</string>
+    <string name="floz">uncja UK (fl oz)</string>
+    <string name="ozUS">uncja US</string>
+    <string name="pt">pinta UK (pt)</string>
+    <string name="pintsDryUS">pinta (sucha) US</string>
+    <string name="pintsFluidUS">pinta (mokra) US</string>
+    <string name="qt">kwarta UK (qt)</string>
+    <string name="quartsDryUS">kwarta (sucha) US</string>
+    <string name="quartsFluidUS">kwarta (mokra) US</string>
+    <string name="gal">galon UK (gal)</string>
+    <string name="gallonsDryUS">galon (suchy) US</string>
+    <string name="gallonsFluidUS">galon (mokry) US</string>
+
+
+    //names of volume units array:
+    <string-array name="volumeUnitsLong">
+        <item>@string/mm3</item>
+        <item>@string/cm3</item>
+        <item>@string/dm3</item>
+        <item>@string/m3</item>
+        <item>@string/ml</item>
+        <item>@string/cl</item>
+        <item>@string/dl</item>
+        <item>@string/l</item>
+        <item>@string/hl</item>
+        <item>@string/floz</item>
+        <item>@string/ozUS</item>
+        <item>@string/pt</item>
+        <item>@string/pintsDryUS</item>
+        <item>@string/pintsFluidUS</item>
+        <item>@string/qt</item>
+        <item>@string/quartsDryUS</item>
+        <item>@string/quartsFluidUS</item>
+        <item>@string/gal</item>
+        <item>@string/gallonsDryUS</item>
+        <item>@string/gallonsFluidUS</item>
+    </string-array>
+
+    ////short names of volume units array:
+    <string-array name="volumeUnits">
+        <item>mm<sup><small>3</small></sup></item>
+        <item>cm<sup><small>3</small></sup></item>
+        <item>dm<sup><small>3</small></sup></item>
+        <item>m<sup><small>3</small></sup></item>
+        <item>ml</item>
+        <item>cl</item>
+        <item>dl</item>
+        <item>l</item>
+        <item>hl</item>
+        <item>floz</item>
+        <item>ozUS</item>
+        <item>pt</item>
+        <item>pt (suche) US</item>
+        <item>pt (mokre) US</item>
+        <item>qt</item>
+        <item>qt (suche) US</item>
+        <item>qt (mokre) US</item>
+        <item>gal</item>
+        <item>gal (suche) US</item>
+        <item>gal (mokre) US</item>
+    </string-array>
+</resources>

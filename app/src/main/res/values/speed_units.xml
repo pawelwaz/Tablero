@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //names of speed units:
+    <string name="kmperh">kilometer per hour (km/h)</string>
+    <string name="kmpers">kilometer per second (km/s)</string>
+    <string name="meterpers">meter per second (m/s)</string>
+    <string name="mileperh">mile per hour (mph)</string>
+    <string name="milepers">mile per second (mps)</string>
+    <string name="footpers">foot per second (fps)</string>
+    <string name="knot">knot (nautical mile/h) (kn)</string>
+    <string name="mach">mach (ma)</string>
+
+    //names of power speed array:
+    <string-array name="speedUnitsLong">
+        <item>@string/kmperh</item>
+        <item>@string/kmpers</item>
+        <item>@string/meterpers</item>
+        <item>@string/mileperh</item>
+        <item>@string/milepers</item>
+        <item>@string/footpers</item>
+        <item>@string/knot</item>
+        <item>@string/mach</item>
+    </string-array>
+
+    //short names of speed units:
+    <string-array name="speedUnits">
+        <item>km/h</item>
+        <item>km/s</item>
+        <item>m/s</item>
+        <item>mph</item>
+        <item>mps</item>
+        <item>fps</item>
+        <item>kn</item>
+        <item>ma</item>
+    </string-array>
+</resources>

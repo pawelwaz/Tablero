@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //names of area units:
+    <string name="mm2">square milimeter (mm<sup><small>2</small></sup>)</string>
+    <string name="cm2">square centimeter (cm<sup><small>2</small></sup>)</string>
+    <string name="dm2">square decimeter (dm<sup><small>2</small></sup>)</string>
+    <string name="m2">square meter (m<sup><small>2</small></sup>)</string>
+    <string name="km2">square kilometer (km<sup><small>2</small></sup>)</string>
+    <string name="a">are (a)</string>
+    <string name="ha">hectare (ha)</string>
+    <string name="in2">square inch (in<sup><small>2</small></sup>)</string>
+    <string name="ft2">square foot (ft<sup><small>2</small></sup>)</string>
+    <string name="ya2">square yard (ya<sup><small>2</small></sup>)</string>
+    <string name="mi2">square mile (mi<sup><small>2</small></sup>)</string>
+    <string name="acreUK">acre UK</string>
+    <string name="acreUS">acre US</string>
+
+    //names of area units array:
+    <string-array name="areaUnitsLong">
+        <item>@string/mm2</item>
+        <item>@string/cm2</item>
+        <item>@string/dm2</item>
+        <item>@string/m2</item>
+        <item>@string/km2</item>
+        <item>@string/a</item>
+        <item>@string/ha</item>
+        <item>@string/in2</item>
+        <item>@string/ft2</item>
+        <item>@string/ya2</item>
+        <item>@string/mi2</item>
+        <item>@string/acreUK</item>
+        <item>@string/acreUS</item>
+    </string-array>
+
+    //short names of area units:
+    <string-array name="areaUnits">
+        <item>mm<sup><small>2</small></sup></item>
+        <item>cm<sup><small>2</small></sup></item>
+        <item>dm<sup><small>2</small></sup></item>
+        <item>m<sup><small>2</small></sup></item>
+        <item>km<sup><small>2</small></sup></item>
+        <item>a</item>
+        <item>ha</item>
+        <item>in<sup><small>2</small></sup></item>
+        <item>ft<sup><small>2</small></sup></item>
+        <item>ya<sup><small>2</small></sup></item>
+        <item>mi<sup><small>2</small></sup></item>
+        <item>acreUK</item>
+        <item>acreUS</item>
+    </string-array>
+</resources>

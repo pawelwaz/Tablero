@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/mainLayout"
+    android:gravity="center_vertical"
+    android:onClick="openMenu">
+    <ScrollView style="@style/mainScroll"
+        android:onClick="openMenu">
+        <LinearLayout style="@style/subLayout"
+            android:onClick="openMenu">
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:src="@drawable/icon"
+                android:onClick="openMenu"/>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/barBG"
+                android:orientation="vertical"
+                android:gravity="center"
+                android:padding="10dp"
+                android:onClick="openMenu">
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:src="@drawable/logo"/>
+            </LinearLayout>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@color/bg1"
+                android:layout_gravity="center"
+                android:text="@string/tap"
+                android:textColor="@color/interfaceLight"
+                android:textSize="25dp"
+                android:textAllCaps="true"
+                android:padding="20dp"
+                android:layout_margin="20dp"
+                android:textStyle="bold"
+                android:onClick="openMenu"/>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

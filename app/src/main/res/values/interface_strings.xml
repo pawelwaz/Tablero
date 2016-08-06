@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //BUTTONS
+    <string name="calculate">Calculate</string>
+    <string name="clear">Clear</string>
+    <string name="convert">convert</string>
+    <string name="change">change</string>
+    <string name="tap">tap to start</string>
+
+    //prompts
+    <string name="promptA">a = </string>
+    <string name="promptB">b = </string>
+    <string name="promptR">r = </string>
+    <string name="promptH">h = </string>
+    <string name="promptP">P = </string>
+
+    //HEADERS
+    <string name="units">units</string>
+    <string name="solution">solution</string>
+    <string name="isEqual">is equal to:</string>
+    <string name="unitType">category:</string>
+    <string name="unit">unit: </string>
+    <string name="maxDigits">degree of precision:</string>
+
+    //INPUT PLACEHOLDERS
+    <string name="converterIn">enter a value to convert</string>
+</resources>

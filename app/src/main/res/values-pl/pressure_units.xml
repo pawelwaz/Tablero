@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //names of pressure units:
+    <string name="milibar">milibar</string>
+    <string name="bar">bar</string>
+    <string name="pascal">paskal (Pa)</string>
+    <string name="hectopascal">hectopaskal (hPa)</string>
+    <string name="megapascal">megapaskal (MPa)</string>
+    <string name="kgPerCm2">kilogram/cm kwadratowy (kg/cm<sup><small>2</small></sup>)</string>
+    <string name="TPerCm2">tona/cm kwadratowy (T/cm<sup><small>2</small></sup>)</string>
+    <string name="kgPerM2">kilogram/metr kwadratowy (kg/m<sup><small>2</small></sup>)</string>
+    <string name="NPerM2">newton/metr kwadratowy (N/m<sup><small>2</small></sup>)</string>
+    <string name="kNPerM2">kilonewton/metr kwadratowy (kN/m<sup><small>2</small></sup>)</string>
+    <string name="MNPerM2">meganewton/metr kwadratowy (MN/m<sup><small>2</small></sup>)</string>
+    <string name="NPerCm2">newton/cm kwadratowy (N/cm<sup><small>2</small></sup>)</string>
+    <string name="NPerMm2">newton/mm kwadratowy (N/mm<sup><small>2</small></sup>)</string>
+    <string name="physicalAtmosphere">fizyczna atmosfera (atm)</string>
+    <string name="technicalAtmosphere">techniczna atmosfera (at)</string>
+
+    //names of pressure units array:
+    <string-array name="pressureUnitsLong">
+        <item>@string/milibar</item>
+        <item>@string/bar</item>
+        <item>@string/pascal</item>
+        <item>@string/hectopascal</item>
+        <item>@string/megapascal</item>
+        <item>@string/kgPerCm2</item>
+        <item>@string/TPerCm2</item>
+        <item>@string/kgPerM2</item>
+        <item>@string/NPerM2</item>
+        <item>@string/kNPerM2</item>
+        <item>@string/MNPerM2</item>
+        <item>@string/NPerCm2</item>
+        <item>@string/NPerMm2</item>
+        <item>@string/physicalAtmosphere</item>
+        <item>@string/technicalAtmosphere</item>
+    </string-array>
+
+    //short names of pressure units array:
+    <string-array name="pressureUnits">
+        <item>milibar</item>
+        <item>bar</item>
+        <item>Pa</item>
+        <item>hPa</item>
+        <item>MPa</item>
+        <item>kg/cm<sup><small>2</small></sup></item>
+        <item>T/cm<sup><small>2</small></sup></item>
+        <item>kg/m<sup><small>2</small></sup></item>
+        <item>N/m<sup><small>2</small></sup></item>
+        <item>kN/m<sup><small>2</small></sup></item>
+        <item>MN/m<sup><small>2</small></sup></item>
+        <item>N/cm<sup><small>2</small></sup></item>
+        <item>N/mm<sup><small>2</small></sup></item>
+        <item>atm</item>
+        <item>at</item>
+    </string-array>
+</resources>

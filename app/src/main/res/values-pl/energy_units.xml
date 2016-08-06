@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //names of energy units:
+    <string name="joul">dżul (J)</string>
+    <string name="kilojoul">kilodżul (kJ)</string>
+    <string name="megajoul">megadżul (MJ)</string>
+    <string name="wattsecond">watosekunda (Ws)</string>
+    <string name="watthour">watogodzina (Wh)</string>
+    <string name="kilowatthour">kilowatogodzina (kWh)</string>
+    <string name="erg">erg (erg)</string>
+    <string name="calorie">kaloria (cal)</string>
+    <string name="kilocalorie">kilokaloria (kcal)</string>
+    <string name="megacalorie">megakaloria (Mcal)</string>
+
+    //names of energy units array:
+    <string-array name="energyUnitsLong">
+        <item>@string/joul</item>
+        <item>@string/kilojoul</item>
+        <item>@string/megajoul</item>
+        <item>@string/wattsecond</item>
+        <item>@string/watthour</item>
+        <item>@string/kilowatthour</item>
+        <item>@string/erg</item>
+        <item>@string/calorie</item>
+        <item>@string/kilocalorie</item>
+        <item>@string/megacalorie</item>
+    </string-array>
+
+    //short names of energy units:
+    <string-array name="energyUnits">
+        <item>J</item>
+        <item>kJ</item>
+        <item>MJ</item>
+        <item>Ws</item>
+        <item>Wh</item>
+        <item>kWh</item>
+        <item>erg</item>
+        <item>cal</item>
+        <item>kcal</item>
+        <item>Mcal</item>
+    </string-array>
+</resources>
